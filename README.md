@@ -2,8 +2,8 @@
 
 - 👋 Greetings, I’m @ndevplanque
 - 👀 I started as a back-end dev but eventually became fullstack
-- 🌱 I’m currently learning Angular (work) and Machine Learning (spare time)
-- 💞️ I have great skills in Go and JS and I'm looking to benefit from this
+- 🌱 I’m currently learning Angular (at work) and Machine Learning (spare time)
+- 💞️ I'd like to work on any kind of project, and keep learning updated Go and JS
 - 📫 How to reach me : n.devplanque@gmail.com
 
 <!---
