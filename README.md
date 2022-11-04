@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ndevplanque
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning TDD and Agile/Scrum
-- 💞️ I’m looking to collaborate on open source projects 
+## I ❤️ Code
+
+- 👋 Greetings, I’m @ndevplanque
+- 👀 I started as a back-end dev but eventually became fullstack
+- 🌱 I’m currently learning Angular (work) and Machine Learning (spare time)
+- 💞️ I have great skills in Go and JS and I'm looking to make benefit of them
 - 📫 How to reach me : n.devplanque@gmail.com
 
 <!---
