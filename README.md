@@ -16,6 +16,12 @@ Je suis développeur fullstack. Ma zone de confort se situe dans ce périmètre 
 - Java 19
 - MySQL, SQLite
 
+## Technologies
+- Git : Github, Gitlab, workflow "gitflow"
+- Visual Studio Code
+- Visual Studio
+- Suite Jetbrains (PhpStorm, WebStorm, IntelliJ, GoLand...)
+
 Pour me contacter : 📫 n.devplanque@gmail.com
 
 <!---
