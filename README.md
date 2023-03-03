@@ -1,15 +1,16 @@
-## Développeur "Pile Pleine"
+# Développeur "Pile Pleine"
 
 Bonjour à toutes et tous..
+
 Je suis développeur fullstack. Ma zone de confort se situe dans ce périmètre :
 
-# JavaScript
+## JavaScript
 - JS : ES6, RxJS
 - NodeJS 19 (+ ExpressJS)
 - React 16, Angular 14
 - MongoDB, Firebase
 
-# Back
+## Back
 - .NET 6
 - Go 1.18
 - Java 19
