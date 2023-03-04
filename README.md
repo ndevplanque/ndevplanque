@@ -9,11 +9,13 @@ Je suis développeur fullstack. Ma zone de confort se situe dans ce périmètre 
 - NodeJS 19 (+ ExpressJS)
 - React 16, Angular 14
 - MongoDB, Firebase
+- InertiaJS (+ PHP)
 
 ## Back
-- .NET 6
+- C# 10 / .NET 6
 - Go 1.18
 - Java 19
+- PHP 8.1 / Laravel 9
 - MySQL, SQLite
 
 ## Technologies
