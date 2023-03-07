@@ -3,6 +3,7 @@
 Bonjour à toutes et tous..
 
 Je suis un développeur fullstack ayant une préférence pour la gestion Agile avec une approche incrémentale.
+
 Ma zone de confort se situe dans ce périmètre :
 
 ## JavaScript
