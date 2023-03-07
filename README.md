@@ -15,7 +15,7 @@ Ma zone de confort se situe dans ce périmètre :
 ## Back
 - C# 10 / .NET 6
 - Go 1.18
-- Java 19
+- Java 17
 - PHP 8.1 / Laravel 9
 - MySQL, SQLite
 
