@@ -26,7 +26,7 @@ Ma zone de confort se situe dans ce périmètre :
 - Visual Studio
 - Suite Jetbrains (PhpStorm, WebStorm, IntelliJ, GoLand...)
 
-Pour me contacter : 📫 n.devplanque@gmail.com
+Pour me contacter : 📫 nicolas@delplanque.eu
 
 <!---
 ndevplanque/ndevplanque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
