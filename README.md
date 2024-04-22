@@ -1,29 +1,29 @@
-# Développeur Fullstack
+## Développeur Fullstack
 
 Bonjour à toustes...
 
 Voici mes compétences :
 
-## Front
+### Front
 - Svelte (HTML/CSS/JS/TS)
 - React TSX
 - Tailwind
 
-## Back
+### Back
 - NodeJS 20 (+ ExpressJS, NestJS...)
 - C# 10 / .NET 7
 - Go 1.18
 - Java 17
 - PHP 8.3
 
-# Bases de données
+### Bases de données
 - MySQL, PostgreSQL, SQLite
 - MongoDB
 
-## Mobile
+### Mobile
 - React Native
 
-## Technologies
+### Technologies
 - Docker
 - Git : Github, Gitlab, workflow "gitflow"
 - Visual Studio Code
