@@ -1,30 +1,34 @@
-# Développeur "Pile Pleine"
+# Développeur Fullstack
 
-Bonjour à toutes et tous..
+Bonjour à toustes...
 
-Je suis un développeur fullstack ayant une préférence pour la gestion Agile avec une approche incrémentale.
+Voici mes compétences :
 
-Ma zone de confort se situe dans ce périmètre :
-
-## JavaScript
-- JS : ES6, RxJS
-- NodeJS 19 (+ ExpressJS)
-- React 16, Angular 14
-- MongoDB, Firebase
-- InertiaJS (+ PHP)
+## Front
+- Svelte (HTML/CSS/JS/TS)
+- React TSX
+- Tailwind
 
 ## Back
-- C# 10 / .NET 6
+- NodeJS 20 (+ ExpressJS, NestJS...)
+- C# 10 / .NET 7
 - Go 1.18
 - Java 17
-- PHP 8.1 / Laravel 9
-- MySQL, SQLite
+- PHP 8.3
+
+# Bases de données
+- MySQL, PostgreSQL, SQLite
+- MongoDB
+
+## Mobile
+- React Native
 
 ## Technologies
+- Docker
 - Git : Github, Gitlab, workflow "gitflow"
 - Visual Studio Code
 - Visual Studio
-- Suite Jetbrains (PhpStorm, WebStorm, IntelliJ, GoLand...)
+- Suite Jetbrains (PhpStorm, WebStorm, IntelliJ, GoLand, Rider...)
 
 Pour me contacter : 📫 nicolas@delplanque.eu
 
