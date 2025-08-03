@@ -4,17 +4,18 @@ Bonjour à toustes...
 
 Voici mes compétences :
 
-### Front
-- Svelte (HTML/CSS/JS/TS)
-- JavaScript / TypeScript / React
-- Tailwind
-
 ### Back
 - PHP 8.4 / Laravel 12
 - C# / .NET
 - Java
 - NodeJS (+ ExpressJS, NestJS...)
 - Go
+
+
+### Front
+- JavaScript / TypeScript / React
+- Tailwind
+- Svelte (HTML/CSS/JS/TS)
 
 ### Bases de données
 - MySQL, PostgreSQL, SQLite
