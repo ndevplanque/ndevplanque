@@ -1,4 +1,4 @@
-## Développeur Fullstack
+## Développeur Backend / Fullstack
 
 Bonjour à toustes...
 
@@ -6,19 +6,20 @@ Voici mes compétences :
 
 ### Front
 - Svelte (HTML/CSS/JS/TS)
-- React TSX
+- JavaScript / TypeScript / React
 - Tailwind
 
 ### Back
-- NodeJS 20 (+ ExpressJS, NestJS...)
-- C# 10 / .NET 7
-- Go 1.18
-- Java 17
-- PHP 8.3
+- PHP 8.4 / Laravel 12
+- C# / .NET
+- Java
+- NodeJS (+ ExpressJS, NestJS...)
+- Go
 
 ### Bases de données
 - MySQL, PostgreSQL, SQLite
-- MongoDB
+- MongoDB, Elasticsearch, Firebase
+- Redis
 
 ### Mobile
 - React Native
